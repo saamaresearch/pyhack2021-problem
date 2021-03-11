@@ -16,19 +16,19 @@ CM Data Dictionary (add link)
 Common Problems seen in this dataset are 
 
 ### TYPE1
-Patients and rows for which Concomitant Medication starts prior to the Adverse Event.
+Patients and rows for which Medication are given prior to the Adverse Events.
 
 ### TYPE2
-Patients and rows for which Concomitant Medication days Adverse Event days dont match 
+Patients and rows for which days Medications are given and Adverse Event occur don't match. 
 
 ### TYPE3
-Duplicate Adverse events are entered or Adverse Events overlaps 
+Duplicate Adverse events are entered or Adverse Events overlap.
 
 ### TYPE4
-Patients and rows which have Concomitant medication overlaps
+Patients and rows which have overlapping of Concomitant medications.
 
 ### TYPE5
-Patients for which Adverse event duration is not appropriate for corresponding concomitant medication 
+Patients for which the duration of Adverse Events is not adding up to corresponding concomitant medication. 
 
 
 ...
