@@ -1,6 +1,7 @@
 # pyhack2021-problem 
 
-Clinical Trials data are captured in Forms, there are two such forms Adverse Event (AE) and Concomitant Medication (CM). Adverse Event data is captured when the Subject aka Patient is enrolled in a Clinical Trial faces a side effect. To treat the Adverse Event a medication is given, that is Concommitant Medication(CM). Adverse Events and Concommitant Medications have to be linked together. Two Datasets AE and CM are provided, see CSV files for sample data. To pull the entire data refer to the API guide. Goal of this Hackathon is to find issues with this data. 
+Data from Clinical Trials are collected by the means of various Forms. For example in this Hackathon we have the Adverse Event (AE) and Concomitant Medication (CM) Forms and their respective information collected. The Adverse Event (AE) Form captures all the adverse side effects the Patient or Subject may face during a Clinical Trial after enrollment. These effects can then be treated by a medication, called Concomitant Medication and the related data is again captured as a Concomitant Medication (CM) Form. Hence we can see that both Adverse Effects (AE) and Concomitant Medications (CM) are interrelated. Here, we will provide two datasets, each of AE and CM Forms respectively as CSV files. Using this sample data, APIs must be called after reffering to the API guide and the goal of this Hackathon is to find specific issues with this data.
+
 
 ## Datasets
 
