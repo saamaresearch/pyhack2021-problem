@@ -13,7 +13,7 @@ Data from Clinical Trials are collected by the means of various Forms. For examp
 
 ## Problems
 
-Common Problems seen in this dataset are 
+Common Problems(discrepancies) seen in this dataset are 
 
 ### TYPE1
 Patients and rows for which Medication are given prior to the Adverse Events.
@@ -35,13 +35,13 @@ Patients for which the duration of Adverse Events is not adding up to correspond
 
 ## Solution 
 
-Expected solution will do the below 
+Use the API's provided in the API docs to perform the following 
 
 ## Solution steps
-### 1. Get a list subjects for study id + domain id
-### 2. Get data for for study id + domain id + subject id
+### 1. Get a list subjects for the given study id + domain id
+### 2. Get subject data for study id + domain id + subject id
 ### 3. Process data and find discrepancy
-### 4. Send discrepancy data to submit query api
+### 4. Send discrepancy data to submit query API. ( use your email address to submit the discrepancies)
 
 ## APIs
 
