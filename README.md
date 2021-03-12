@@ -8,6 +8,8 @@ During the trial there can be [Adverse events](https://en.wikipedia.org/wiki/Adv
 
 Concomitant medications (CM) are other prescription medications study participant takes because of an Adverse Event.
 
+For Example: Loperamide (Medication) taken for Diarrhea (Adverse event). As it happens usually, The Medication is typically taken only during the Adverse event 
+
 ## Problem summary
 
 
