@@ -41,12 +41,12 @@ Expected solution will do the below
 ### 1. Get a list subjects for study id + domain id
 ### 2. Get data for for study id + domain id + subject id
 ### 3. Process data
-### 4. Get a list subjects for given study id and domain id
+### 4. Get subject data for given study id and domain id and subject ID
 
 ## APIs
 
-### 1. Get a list subjects for study id + domain id
-### 2. Get data for for study id + domain id + subject id
+### 1. Get a list subjects for a given study id + domain id
+### 2. Get data for for a given set of study id + domain id + subject id
 ### 3. Get a list subjects for given study id and domain id
 
 API Host: https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com
