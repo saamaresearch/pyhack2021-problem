@@ -44,6 +44,12 @@ Patients for which the duration of Adverse Events is not adding up to correspond
 
 ...
 
+### API Host
+
+https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com
+
+### API Docs: https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com/apidocs
+
 ## Solution 
 
 Use the API's provided in the API docs to perform the following 
@@ -54,12 +60,8 @@ Use the API's provided in the API docs to perform the following
 ### 3. Process data and find discrepancy
 ### 4. Send discrepancy data to submit query API. ( use your email address to submit the discrepancies)
 
-## APIs
+## Bonus Points
 
-### 1. Get a list subjects for study id + domain id
-### 2. Get data for for study id + domain id + subject id
-### 3. Submit query
+### Well written Test Harness for testing your code
 
-API Host: https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com
 
-API Docs: https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com/apidocs
