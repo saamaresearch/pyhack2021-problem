@@ -30,19 +30,23 @@ Common Problems(discrepancies) seen in this dataset are
 
 ### TYPE1
 Patients and rows for which Medication are given prior to the Adverse Events.
+Eg: ![image](https://user-images.githubusercontent.com/16976605/110984096-aaaffe80-8338-11eb-8bb0-d4193ffde67c.png)
 
 ### TYPE2
 Patients and rows for which days Medications are given and Adverse Event occur don't match. 
+Eg: ![image](https://user-images.githubusercontent.com/16976605/110984437-23af5600-8339-11eb-97f9-0b099cfad2e7.png)
 
 ### TYPE3
 Duplicate Adverse events are entered or Adverse Events overlap.
+![image](https://user-images.githubusercontent.com/16976605/110985084-fc0cbd80-8339-11eb-86eb-f33f065ba55a.png)
 
 ### TYPE4
 Patients and rows which have overlapping of Concomitant medications.
+![image](https://user-images.githubusercontent.com/16976605/110985591-a1c02c80-833a-11eb-85de-4a17de36ac39.png)
 
 ### TYPE5
 Patients for which the duration of Adverse Events is not adding up to corresponding concomitant medication. 
-
+![image](https://user-images.githubusercontent.com/16976605/110986383-99b4bc80-833b-11eb-9306-5db76834cc45.png)
 
 ...
 
