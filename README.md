@@ -16,10 +16,10 @@ Data from Clinical Trials are collected by the means of various Forms. For examp
 
 ## Datasets
 
-#### AE (add link)
-#### AE Data Dictionary (add link)
-#### CM (add link)
-#### CM Data Dictionary (add link)
+#### AE [https://www.dropbox.com/s/wg3xi7f9kxr5o4w/AE_data_sample.xlsx?dl=0]
+#### CM [https://www.dropbox.com/s/uar0h8pkfxtt2ij/cm_data_sample.xlsx?dl=0]
+
+#### Data Dictionary [https://www.dropbox.com/s/5s83sveiovzolsh/Hackathon%20Data%20Dictionary.xlsx?dl=0]
 ...
 
 ## Problems
