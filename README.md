@@ -1,6 +1,17 @@
-# pyhack2021-problem 
+# pyhack2021
 
-Data from Clinical Trials are collected by the means of various Forms. For example, in this Hackathon, we have the Adverse Event (AE) and Concomitant Medication (CM) Forms and their respective information collected. The Adverse Event (AE) Form captures all the adverse side effects the Patient or Subject may face during a Clinical Trial after enrollment. These effects can then be treated by a medication, called Concomitant Medication and the related data is again captured as a Concomitant Medication (CM) Form. Hence we can see that both Adverse Effects (AE) and Concomitant Medications (CM) are interrelated. Here, we will provide two datasets, each of AE and CM Forms respectively as CSV files. Using this sample data, APIs must be called after referring to the API guide and the goal of this Hackathon is to find specific issues with this data.
+## Context
+At Saama we work with pharmaceutical compaines to speed up their clinical Trials.
+Clinical Trials - For a drug/medicine to get to the market it has to go through certain phases of testing on humans. These trials are done in hospitals(sites) and medicines are administered to selected patients(subjects) by the doctors.
+
+During the trial there can be [Adverse events](https://en.wikipedia.org/wiki/Adverse_event) (a situation when the subject has side effects because of the drug under investigation).
+
+Concomitant medications (CM) are other prescription medications study participant takes because of an Adverse Event.
+
+## Problem summary
+
+
+Data from Clinical Trials are collected by the means of various Forms. For example, in this Hackathon, we have the Adverse Event (AE) and Concomitant Medication (CM) Forms and their respective information collected. The Adverse Event (AE) Form captures all the adverse side effects the Patient or Subject may face during a Clinical Trial after enrollment. These effects can then be treated by a medication, called Concomitant Medication and the related data is again captured as a Concomitant Medication (CM) Form. Hence we can see that both Adverse Events (AE) and Concomitant Medications (CM) are interrelated. Here, we will provide two datasets, each of AE and CM Forms respectively as CSV files. Using this sample data, APIs must be called after referring to the API guide and the goal of this Hackathon is to find specific issues with this data.
 
 
 ## Datasets
