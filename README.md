@@ -19,10 +19,10 @@ Data from Clinical Trials are collected by the means of various Forms. For examp
 
 Below you can take a look at how the data looks like in the backend. This is the data that we will be serving you on the api requests.
 
-| Domain | Link                                                                            |
-| ------ | ------------------------------------------------------------------------------- |
-| AE     | [Sample AE](https://www.dropbox.com/s/wg3xi7f9kxr5o4w/AE_data_sample.xlsx?dl=0) |
-| CM     | [Sample CM](https://www.dropbox.com/s/uar0h8pkfxtt2ij/cm_data_sample.xlsx?dl=0) |
+| Domain | Link                                                                         |
+| ------ | ---------------------------------------------------------------------------- |
+| AE     | [Sample](https://www.dropbox.com/s/wg3xi7f9kxr5o4w/AE_data_sample.xlsx?dl=0) |
+| CM     | [Sample](https://www.dropbox.com/s/uar0h8pkfxtt2ij/cm_data_sample.xlsx?dl=0) |
 
 You can check what each column means in the [data dictionary](https://www.dropbox.com/s/5s83sveiovzolsh/Hackathon%20Data%20Dictionary.xlsx?dl=0).
 
