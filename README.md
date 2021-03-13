@@ -57,26 +57,23 @@ Patients for which the duration of Adverse Events is not adding up to correspond
 
 ...
 
-### API Host
+## Resources
 
-https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com
+- **API Host**: https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com \
+  This is where we have hosted the api, play around with a temporary email address initially if you want to test out the api before actual submission.
 
-### API Docs: https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com/apidocs
+- **API Docs**: https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com/apidocs \
+  This will contain the docs to the endpoints that you will have to connect to to get the data and subimt the result at the end.
 
 ## Solution
 
-Use the API's provided in the API docs to perform the following
+> Look in the api docuemntation to see how you can communicate with the api and perform these tasks.
 
-## Solution steps
-
-### 1. Get a list subjects for the given study id + domain id
-
-### 2. Get subject data for study id + domain id + subject id
-
-### 3. Process data and find discrepancy
-
-### 4. Send discrepancy data to submit query API. ( use your email address to submit the discrepancies)
+- Get a list subjects for the given **study id** + **domain id**
+- Get subject data for **study id** + **domain id** + **subject id**
+- Process data and find discrepancy (diffent type of discrepancies are defined above)
+- Submit discrepancy data to the API (use your email address to submit the discrepancies)
 
 ## Bonus Points
 
-### Well written Test Harness for testing your code
+- Well written Test Harness for testing your code
