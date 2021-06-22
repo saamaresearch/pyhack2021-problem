@@ -59,10 +59,10 @@ Patients for which the duration of Adverse Events is not adding up to correspond
 
 ## Resources
 
-- **API Host**: https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com \
+- **API Host**: https://pharmanlp-177020.uc.r.appspot.com \
   This is where we have hosted the api, play around with a temporary email address initially if you want to test out the api before actual submission.
 
-- **API Docs**: https://pyhack-dot-pharmanlp-177020.uc.r.appspot.com/apidocs \
+- **API Docs**: https://pharmanlp-177020.uc.r.appspot.com/apidocs \
   This will contain the docs to the endpoints that you will have to connect to to get the data and subimt the result at the end.
 
 ## Solution
